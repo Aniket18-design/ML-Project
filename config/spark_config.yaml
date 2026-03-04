@@ -1,0 +1,5 @@
+spark:
+  app_name: FarePredictionApp
+  executor_memory: 4g
+  driver_memory: 2g
+  shuffle_partitions: 200
