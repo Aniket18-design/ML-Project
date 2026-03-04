@@ -1,0 +1,5 @@
+{
+  "dashboard_name": "Fare Prediction Dashboard",
+  "data_source": "processed_predictions.csv",
+  "refresh_frequency": "daily"
+}
